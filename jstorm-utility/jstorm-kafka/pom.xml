@@ -19,7 +19,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jstorm.version>${parent.version}</jstorm.version>
-        <kafka.version>0.8.1</kafka.version>
+        <kafka.version>0.8.2.0</kafka.version>
         <curator.version>2.5.0</curator.version>
     </properties>
 
