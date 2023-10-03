@@ -145,7 +145,7 @@
 
     <!-- dependency versions -->
     <powermock.version>1.4.11</powermock.version>
-    <hadoop.version>2.6.2</hadoop.version>
+    <hadoop.version>3.3.5</hadoop.version>
   </properties>
   <modules>
     <module>jstorm-core</module>
