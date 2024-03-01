@@ -36,7 +36,7 @@
     <powermock.version>1.4.11</powermock.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jstorm.version>2.2.0-SNAPSHOT</jstorm.version>
-        <storm.version>1.0.1</storm.version>
+        <storm.version>2.0.0</storm.version>
         <heron.version>0.14.0</heron.version>
         <flink.version>1.0.3</flink.version>
   </properties>
