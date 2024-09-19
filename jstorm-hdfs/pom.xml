@@ -86,7 +86,7 @@
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>2.5.0</version>
+            <version>3.25.5</version>
         </dependency>
 
         <!-- exclude useless hadoop jars -->
@@ -224,8 +224,7 @@
                             </filters>
                             <transformers>
                                 <!-- see http://stackoverflow.com/questions/17265002/hadoop-no-filesystem-for-scheme-file -->
-                                <transformer
-                                        implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                             </transformers>
                         </configuration>
                     </execution>
