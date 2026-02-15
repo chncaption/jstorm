@@ -19,7 +19,7 @@
 source 'https://ruby.taobao.org'
 
 # Dependencies required to build the JStorm docs
-gem 'jekyll', '2.5.3'
+gem 'jekyll', '3.0.0'
 gem 'kramdown', '1.10.0'
 gem 'pygments.rb', '0.6.3'
 gem 'therubyracer', '0.12.2'
